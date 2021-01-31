@@ -13,7 +13,7 @@
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in mianyang, China.
-- 💬 Ask me about Java, TypeScript and my projects on [seemingly98@qq.com](mailto:seemingly98@qq.com)
+- 💬 Ask me about Java, JavaScript and my projects on [seemingly98@qq.com](mailto:seemingly98@qq.com)
 - ⭐ Love you 
 - ⚡ Fun fact: Data Analysis📊
 
