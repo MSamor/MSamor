@@ -12,7 +12,7 @@
 ### I'm WeiPeng
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in mianyang, China.
+- 🌱 Currently studying mianyang, China.
 - 💬 Ask me about Java, JavaScript and my projects on [seemingly98@qq.com](mailto:seemingly98@qq.com)
 - ⭐ Love you 
 - ⚡ Fun fact: Data Analysis📊
