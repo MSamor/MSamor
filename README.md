@@ -6,7 +6,7 @@
 ### I'm WeiPeng
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently studying Mianyang, China.
+- 🌱 Currently studying Mianyang, China.(2022, Graduate, Work in Chengdu.)
 - 💬 Ask me about Java, JavaScript and my projects on [seemingly98@qq.com](mailto:seemingly98@qq.com)
 - ⭐ Love of Self
 - ⚡ Fun fact: Data Analysis📊, Software Development
